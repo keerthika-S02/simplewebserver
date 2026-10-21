@@ -100,10 +100,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 web page
-![alt text](image-2.png)
+[alt text](image.png)
 
 webserver
-![alt text](image-3.png)
+[alt text](image-1.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
